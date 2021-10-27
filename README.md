@@ -1,1 +1,3 @@
 # Linux-Shell-CS386
+
+Created for my Operating Systems Programming course, this program is a low-featured Linux terminal shell. It will use the computer name and the current working directory to print a prompt, and allow users to use it as one would use any other shell. This program has code to change directory and exit through built in commands, and uses exec() functions to fork and run other commands able to be found by PATH. Also has ability to redirect output into another file, and a pipe (|) command was planned to be added, and while this file was completed and submitted, this is something I plan to work on in the future.
